@@ -1,14 +1,20 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>HelloApp</title>
-    <%= csrf_meta_tags %>
+    <title>demo</title>
 
+    <%= csrf_meta_tags %>
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <%= render partial: 'layouts/shim' %>
   </head>
 
-  <body>
-    <%= yield %>
+  <body>  
+    <%= render partial: 'layouts/header' %>
+    <div class="container">
+  	 <%= yield %>
+     <%= render partial: 'layouts/footer'%>
+    </div>
+    
   </body>
 </html>
