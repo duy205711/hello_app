@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
+    root 'home#index'
   resources :users
-  resources :homes, only: [:index]
+  resources :home, only: [:index]
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
-  root 'homes#index'
 end

@@ -17,16 +17,13 @@ textarea {
   resize: vertical;
 }
 
-
 .center {
   text-align: center;
 }
 
 .center h1 {
   margin-bottom: 10px;
-
 }
-
 /* typoraphy */
 
 h1, h2, h3, h4, h5, h6 {
@@ -52,7 +49,6 @@ h2 {
 p {
   font-size: 1.2em;
 }
-
 /* header */
 
 #logo {
@@ -64,32 +60,33 @@ p {
   letter-spacing: -1px;
   padding-top: 9px;
   font-weight: bold;
-  &:hover {
-  color: #fff;
-  background-color: red;
-  text-decoration: none;
-  }
-}
 
-/* */
+  &:hover {
+    color: #fff;
+    background-color: red;
+    text-decoration: none;
+    }
+}
 
 footer {
   margin-top: 30px;
   padding-top: 5px;
   border-top: 1px solid $gray-medium-light;
   color: $light-gray;
+
   a {
     color: #555;
-    &:hover{
+
+    &:hover {
       color: #222;
     }
   }
 
-  small{
+  small {
     float: left;
   }
 
-  ul{
+  ul {
     float: right;
     list-style: none;
 
@@ -99,6 +96,3 @@ footer {
     }
   }
 }
-
-
-
