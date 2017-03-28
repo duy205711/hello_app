@@ -1,0 +1,774 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ea",
+				"eak\teach_key { |key| .. }"
+			],
+			[
+				"su",
+				"successful"
+			],
+			[
+				"er",
+				"errors"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pas",
+				"password_confirmation"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pan",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"Va",
+				"VALID_EMAIL_REGEX"
+			],
+			[
+				"li",
+				"light-gray"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"pa",
+				"partial"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"fo",
+				"footer"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"lin",
+				"link_to"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"de",
+				"default_option"
+			],
+			[
+				"deo",
+				"demo"
+			],
+			[
+				"def",
+				"default_option"
+			],
+			[
+				"app",
+				"appointments"
+			],
+			[
+				"s",
+				"str2"
+			],
+			[
+				"st",
+				"str"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"gu",
+				"guessed_it"
+			],
+			[
+				"un",
+				"unless\tunless … end"
+			],
+			[
+				"num",
+				"num_guesses"
+			],
+			[
+				"w",
+				"when\twhen …"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"ran",
+				"ran1"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"cus",
+				"cus_id"
+			],
+			[
+				"cl",
+				"cla\tclass .. < ParentClass .. initialize .. end"
+			],
+			[
+				"nu",
+				"num_guesses"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"ho",
+				"homes"
+			],
+			[
+				"P",
+				"Post"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"post",
+				"post"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"po",
+				"post_path"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"esl",
+				"else"
+			],
+			[
+				"post_pa",
+				"post_path"
+			],
+			[
+				"fla",
+				"flash\tflash[…]"
+			],
+			[
+				"Po",
+				"PostsController"
+			],
+			[
+				"concer",
+				"concerns"
+			],
+			[
+				"com",
+				"commentable"
+			],
+			[
+				"sho",
+				"shallow"
+			],
+			[
+				"and",
+				"admin"
+			],
+			[
+				"ac",
+				"articles"
+			],
+			[
+				"ar",
+				"articles"
+			],
+			[
+				"Pho",
+				"photos"
+			],
+			[
+				"re",
+				"reca\tredirect_to (controller, action)"
+			],
+			[
+				"ro",
+				"root"
+			],
+			[
+				"ap",
+				"application"
+			],
+			[
+				"mo",
+				"mod\tmodule .. module_function .. end"
+			],
+			[
+				"do",
+				"domain"
+			],
+			[
+				"n",
+				"num"
+			],
+			[
+				"sa",
+				"start"
+			],
+			[
+				"A",
+				"Animals"
+			],
+			[
+				"Ar",
+				"Article"
+			],
+			[
+				"eac",
+				"eac-\teach_cons(..) { |group| .. }"
+			],
+			[
+				"H",
+				"H1\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"word",
+				"word-wrap"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"bo",
+				"border-top-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"font-fa",
+				"font-family"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"body",
+				"bodyblue"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"bode",
+				"border-color"
+			],
+			[
+				"bode-s",
+				"border-style"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"co",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "home_controller.rb",
+			"settings":
+			{
+				"buffer_size": 68,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 72.0,
+		"last_filter": "Package Control: use",
+		"selected_items":
+		[
+			[
+				"Package Control: use",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: AN",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = ‘df21e130d211cfc94d9b0905775a7c0f’ + ‘1e3d39e33b79698005270310898eea76’; pf = ‘Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( ‘http://packagecontrol.io/’ + pf.replace(‘ ‘, ‘%20’)).read(); dh = hashlib.sha256(by).hexdigest(); print(‘Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), ‘wb’ ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/lieu/Desktop/project/hello_app",
+		"/home/lieu/Desktop/project/hello_app/app",
+		"/home/lieu/Desktop/project/hello_app/app/controllers"
+	],
+	"file_history":
+	[
+		"/home/lieu/Desktop/project/hello_app/app/assets/stylesheets/custom.scss",
+		"/home/lieu/Desktop/project/hello_app/app/views/users/new.html.erb",
+		"/home/lieu/Desktop/project/hello_app/app/views/users/show.html.erb",
+		"/home/lieu/Desktop/project/hello_app/app/views/shared/_error_messages.html.erb",
+		"/home/lieu/Desktop/project/hello_app/app/controllers/users_controller.rb",
+		"/home/lieu/Desktop/project/hello_app/app/helpers/users_helper.rb",
+		"/home/lieu/Desktop/project/hello_app/app/views/layouts/application.html.erb",
+		"/home/lieu/Desktop/project/hello_app/Gemfile",
+		"/home/lieu/Desktop/project/hello_app/app/models/user.rb",
+		"/home/lieu/Desktop/project/hello_app/db/schema.rb",
+		"/home/lieu/Desktop/project/hello_app/app/controllers/home_controller.rb",
+		"/home/lieu/Desktop/project/hello_app/app/views/layouts/_header.html.erb",
+		"/home/lieu/Desktop/project/hello_app/app/views/layouts/_footer.html.erb",
+		"/home/lieu/Desktop/project/hello_app/app/views/layouts/mailer.text.erb",
+		"/home/lieu/Desktop/project/hello_app/app/views/homes/index.html.erb",
+		"/home/lieu/Desktop/project/hello_app/app/views/layouts/_shim.html.erb",
+		"/home/lieu/Desktop/project/hello_app/app/views/layouts/mailer.html.erb",
+		"/home/lieu/Desktop/project/hello_app/config/environments/development.rb",
+		"/home/lieu/Desktop/project/hello_app/config/routes.rb",
+		"/home/lieu/Desktop/project/hello_app/app/controllers/homes_controller.rb",
+		"/home/lieu/Desktop/project/hello_app/app/controllers/application_controller.rb",
+		"/home/lieu/Desktop/project/hello_app/app/views/static_pages/home.html.erb",
+		"/home/lieu/Desktop/project/hello_app/app/controllers/StaticPagesControllerTest.rb",
+		"/home/lieu/Desktop/project/hello_app/app/views/layouts/_header.htlm.erb",
+		"/home/lieu/Desktop/project/hello_app/config/database.yml",
+		"/home/lieu/Desktop/project/hello_app/public/index1.html",
+		"/home/lieu/Desktop/project/hello_app/app/views/index.html.erb",
+		"/home/lieu/Desktop/project/hello_app/app/views/index.http.erb",
+		"/home/lieu/Desktop/demoa/app/models/post.rb",
+		"/home/lieu/Desktop/demoa/app/models/album.rb",
+		"/home/lieu/Desktop/demoa/app/models/comment.rb",
+		"/home/lieu/Desktop/xxx/demoa/app/models/account.rb",
+		"/home/lieu/Desktop/xxx/demoa/app/models/supplier.rb",
+		"/home/lieu/Desktop/xxx/demoa/app/models/account_history.rb",
+		"/home/lieu/Desktop/xxx/demoa/app/models/phisican.rb",
+		"/home/lieu/Desktop/xxx/demoa/app/models/patient.rb",
+		"/home/lieu/Desktop/xxx/demoa/app/models/custome.rb",
+		"/home/lieu/Desktop/xxx/demoa/db/migrate/20170322021447_add_code_to_products.rb",
+		"/home/lieu/Desktop/xxx/demoa/db/migrate/20170322021434_add_priceto_products.rb",
+		"/home/lieu/Desktop/xxx/demoa/db/migrate/20170322020910_create_products.rb",
+		"/home/lieu/Desktop/xxx/demoa/db/migrate/20170322020445_create_products.rb",
+		"/home/lieu/Desktop/xxx/demoa/app/models/user.rb",
+		"/home/lieu/Desktop/xxx/demoa/db/migrate/20170321230525_create_addresses.rb",
+		"/home/lieu/Desktop/demo.rb",
+		"/home/lieu/Desktop/c.rb",
+		"/home/lieu/Desktop/projectblog/blog/app/views/layouts/application.html.erb",
+		"/home/lieu/Desktop/projectblog/blog/app/assets/stylesheets/application.scss",
+		"/home/lieu/Desktop/projectblog/blog/app/assets/javascripts/application.js",
+		"/home/lieu/Desktop/projectblog/blog/app/views/layouts/_footer.html.erb",
+		"/home/lieu/Desktop/projectblog/blog/app/views/layouts/_header.html.erb",
+		"/home/lieu/Desktop/projectblog/blog/app/assets/stylesheets/application.css",
+		"/home/lieu/Desktop/projectblog/blog/Gemfile",
+		"/home/lieu/Desktop/projectblog/blog/config/routes.rb",
+		"/home/lieu/Desktop/projectblog/blog/app/views/homes/index.html.erb",
+		"/home/lieu/Desktop/xxx/html/u.rb",
+		"/home/lieu/Desktop/xxx/html/.rb",
+		"/home/lieu/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/lieu/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/lieu/Desktop/xxx/test_scaffold/app/views/posts/_post.json.jbuilder",
+		"/home/lieu/Desktop/xxx/test_scaffold/app/views/posts/_form.html.erb",
+		"/home/lieu/Desktop/xxx/test_scaffold/app/controllers/application_controller.rb",
+		"/home/lieu/Desktop/xxx/test_scaffold/app/controllers/posts_controller.rb",
+		"/home/lieu/Desktop/xxx/test_scaffold/app/views/posts/show.json.jbuilder",
+		"/home/lieu/Desktop/xxx/democontrol/app/controllers/submit_controller.rb",
+		"/home/lieu/Desktop/xxx/democontrol/config/routes.rb",
+		"/home/lieu/Desktop/xxx/democontrol/app/views/submit/show.html.erb",
+		"/home/lieu/Desktop/xxx/democontrol/db/migrate/20170221035025_create_submits.rb",
+		"/home/lieu/Desktop/xxx/democontrol/app/views/submit/new.html.erb",
+		"/home/lieu/Desktop/xxx/democontrol/app/views/submit/index.html.erb",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/assets/javascripts/ckeditor/config.js",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/views/posts/_form.html.erb",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/views/posts/new.html.erb",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/controllers/posts_controller.rb",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/views/posts/edit.html.erb",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/views/posts/index.html.erb",
+		"/home/lieu/.rvm/gems/ruby-2.1.2/gems/actionview-4.2.3/lib/action_view/helpers/form_helper.rb",
+		"/home/lieu/.rvm/gems/ruby-2.1.2/gems/simple_form-3.4.0/lib/simple_form/action_view_extensions/form_helper.rb",
+		"/home/lieu/.rvm/gems/ruby-2.1.2/gems/activemodel-4.2.3/lib/active_model/naming.rb",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/models/post.rb",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/assets/javascripts/application.js",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/uploaders/avatar_uploader.rb",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/views/admins/registrations/new.html.erb",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/controllers/application_controller.rb",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/models/admin.rb",
+		"/home/lieu/Desktop/xxx/scotch-blog/config/initializers/carrier_wave.rb",
+		"/home/lieu/Desktop/xxx/scotch-blog/Gemfile",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/views/layouts/_navigation.html.erb",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/views/layouts/application.html.erb",
+		"/home/lieu/Desktop/xxx/scotch-blog/config/initializers/devise.rb",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/views/admins/shared/_links.html.erb",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/views/admins/sessions/new.html.erb",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/views/admins/registrations/edit.html.erb",
+		"/home/lieu/Desktop/xxx/scotch-blog/config/environments/development.rb",
+		"/home/lieu/Desktop/xxx/scotch-blog/Gemfile.lock",
+		"/home/lieu/Desktop/xxx/scotch-blog/config/routes.rb",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/assets/javascripts/config.js",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/views/posts/show.html.erb",
+		"/home/lieu/Desktop/xxx/scotch-blog/config/initializers/simple_form.rbconfig/initializers/simple_form.rb",
+		"/home/lieu/Desktop/xxx/scotch-blog/app/assets/stylesheets/application.scss",
+		"/home/lieu/Desktop/Untitled Folder/demo/config/routes.rb",
+		"/home/lieu/Desktop/Untitled Folder/demo/app/controllers/articles_controller.rb",
+		"/home/lieu/Desktop/Untitled Folder/demo/app/views/articles/index.html.erb",
+		"/home/lieu/Desktop/Untitled Folder/demo/app/views/index.html.erb",
+		"/home/lieu/Desktop/Untitled Folder/demo/app/controllers/admin/articles_controller.rb",
+		"/home/lieu/Desktop/Untitled Folder/demo/app/views/photos/new.html.erb",
+		"/home/lieu/Desktop/Untitled Folder/demo/app/views/admin/articles/index.html.erb",
+		"/home/lieu/Desktop/Untitled Folder/demo/app/controllers/adnim",
+		"/home/lieu/Desktop/Untitled Folder/demo/app/controllers/photos_controller.rb",
+		"/home/lieu/Desktop/Untitled Folder/gif_vault/app/models/user.rb",
+		"/home/lieu/Desktop/Untitled Folder/gif_vault/config/routes.rb",
+		"/home/lieu/Desktop/Untitled Folder/demo/app/views/photos/show.html.erb",
+		"/home/lieu/Desktop/Untitled Folder/demo/app/views/photos/new.htlm.erb",
+		"/home/lieu/Desktop/Untitled Folder/app2/app/controllers/application_controller.rb",
+		"/home/lieu/Desktop/Untitled Folder/app2/config/routes.rb",
+		"/home/lieu/Desktop/untitled.css",
+		"/home/lieu/Desktop/untitled.rb",
+		"/home/lieu/Desktop/untitled.html",
+		"/home/lieu/.config/sublime-text-3/Packages/User/Zeal.sublime-settings",
+		"/home/lieu/.config/sublime-text-3/Packages/Zeal/Zeal.sublime-settings",
+		"/home/lieu/.config/sublime-text-3/Packages/Zeal/Default (Linux).sublime-keymap",
+		"/home/lieu/Desktop/demo0.rb",
+		"/home/lieu/Desktop/sigils.rb",
+		"/home/lieu/Desktop/variables.rb",
+		"/home/lieu/Desktop/untitled.ruby",
+		"/home/lieu/Desktop/studydb/db/migrate/20161121042004_create_join_table_customer_product.rb",
+		"/home/lieu/Desktop/studydb/db/schema.rb",
+		"/home/lieu/Desktop/studydb/db/development.sqlite3",
+		"/home/lieu/Desktop/studydb/db/migrate/20161121035826_add_details_to_products.rb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gem ",
+			"gem sqlite",
+			"false",
+			" gem 'sass-rails'\n",
+			"remembe",
+			"remember_open_files",
+			"admin",
+			"model_name",
+			"  <% if @pos.errors.any? %>\n    <div id=\"error_explanation\">\n      <h2>\n        <%= \"#{pluralize(@post.errors.count, \"error\")} prohibited this post from being saved:\" %>\n      </h2> \n      <ul>\n        <% @pos.errors.full_messages.each do |msg| %>\n          <li>\n            <%= msg %>\n          </li>\n          <% end %>\n      </ul>\n    </div>\n  <% end %>",
+			"devise",
+			"crea",
+			"jason-scheunemann",
+			"http://ppa.launchpad.net/jason-scheunemann/ppa/",
+			"http://ppa.launchpad.net/jason-scheunemann/ppa/ubuntu",
+			"body",
+			"menu-bar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "home_controller.rb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 68,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "micropost.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Gemfile"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"gemfil",
+				"Gemfile.lock"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
