@@ -11,7 +11,7 @@ class UsersController < ApplicationController
     @user = User.new user_params
     if @user.save
       #Handle a successful save
-      flash[:success] = "Successfully created..."
+      flash[:success] = 'Successfully created...'
       redirect_to @user
     else
       render 'new'
