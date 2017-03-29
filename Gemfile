@@ -8,9 +8,12 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.2'
+gem 'faker', '~> 1.6.6'
 gem 'bcrypt', '~> 3.1.11'
 gem 'rubocop', '~> 0.48.0', require: false
 gem 'bootstrap-sass', '~> 3.3.6'
+gem 'will_paginate', '~> 3.1.0'
+gem 'bootstrap-will_paginate', '~> 0.0.10'
 # Use sqlite3 as the database for Active Record
 gem 'pg', '0.20.0'
 gem 'rails_12factor', group: :production

@@ -1,2 +1,2 @@
-module HomesHelper
-end
+#
+module HomesHelper; end
