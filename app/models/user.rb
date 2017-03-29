@@ -1,3 +1,4 @@
+#
 class User < ApplicationRecord
   attr_accessor :remember_token
   before_save :downcase_email
@@ -12,27 +13,26 @@ class User < ApplicationRecord
   validates :password, presence: true, length: { minimum: 6 }, allow_nil: true
 
   def downcase_email
-    self.email.downcase!
+    email.downcase!
   end
 
-  #return a ramdom token
-  def User.new_token
+  # return a ramdom token
+  def self.new_token
     SecureRandom.urlsafe_base64
   end
 
   # Returns the hash digest of the given string.
-  def User.digest(string)
-    cost = ActiveModel::SecurePassword.min_cost ? BCrypt::Engine::MIN_COST :
-                                                  BCrypt::Engine.cost
+  def self.digest(string)
+    cost = ActiveModel::SecurePassword.min_cost ? BCrypt::Engine::MIN_COST : BCrypt::Engine.cost
     BCrypt::Password.create(string, cost: cost)
   end
 
   def remember
     self.remember_token = User.new_token
-    update_attribute(:remember_digest, User.digest(self.remember_token))
+    update_attribute(:remember_digest, User.digest(remember_token))
   end
 
-  #return true if the given token matches the digest
+  # return true if the given token matches the digest
   def authenticated?(remember_token)
     return false if remember_digest.nil?
     BCrypt::Password.new(remember_digest).is_password?(remember_token)
