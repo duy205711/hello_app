@@ -8,7 +8,7 @@ class MicropostsController < ApplicationController
       redirect_to root_url
     else
       @feed_items = []
-      render 'home/]index'
+      render 'home/index'
     end
   end
 
