@@ -17,13 +17,28 @@
     </div>
   </div>
 <% else %>
-  <div class='center jumbotron'>
+  <div class='jumbotron'>
     <h1> Welcome to the Micropost</h1>
-    <h2>
-      This is the home page for the
-      <a href='http://www.railstutorial.org'>Ruby on rails Tutorial</a>
-      sample application
-    </h2>
-    <%= link_to 'Sign up now!', new_user_path, class: 'btn btn-lg btn-primary' %>
+    <div class='center'>
+      <div class='row'>
+        <div class="col-sm-6">
+          <div class='col-md-8 col-md-offset-2'>
+            <%= render 'sessions/login' %>
+          </div>
+        </div>
+        <div class='col-sm-6'>
+          <%= render 'users/newuser' %>
+        </div>
+
+        <div class="recent-mem cold-md-12">
+          <h2 class="recent-user__title">Recent user</h2>
+          <% @recent_users.each do |post|%>
+            <div class='user_avatars'>
+              <%= gravatar_for(post.user, size: 60) %>
+            </div>
+          <% end %>
+        </div>
+      </div>
+    </div>
   </div>
 <% end %>

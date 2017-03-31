@@ -63,14 +63,12 @@ p {
 
   &:hover {
     color: #fff;
-    background-color: red;
     text-decoration: none;
     }
 }
 
 footer {
   margin-top: 30px;
-  padding-top: 5px;
   border-top: 1px solid $gray-medium-light;
   color: $light-gray;
 
@@ -284,6 +282,24 @@ span.picture {
   }
 }
 
-.users.follow {
-  padding: 0;
+.jumbotron {
+  clear: both;
 }
+
+.recent-mem {
+  text-align: center;
+  margin-top: 30px;
+  display: inline-block;
+
+  .recent-user__title {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+
+  .user_avatars {
+    display: inline-block;
+  }
+}
+
+
+
