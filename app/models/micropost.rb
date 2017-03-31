@@ -4,7 +4,7 @@ class Micropost < ApplicationRecord
   belongs_to :user
   validates :user_id, presence: true
   validates :content, presence: true, length: { maximum: 140 }
-
+  scope :order_by_time, -> { order('created_at DESC') }
   mount_uploader :picture, ::PictureUploader
 
   scope :recent_users, -> { includes(:user).select(:user_id).group(:user_id) }
